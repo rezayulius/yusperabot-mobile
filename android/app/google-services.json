@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "305226252151",
+    "project_id": "yusperabot-c57c1",
+    "storage_bucket": "yusperabot-c57c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305226252151:android:ccd17b39c9b8fbb0eaeb72",
+        "android_client_info": {
+          "package_name": "com.example.yusperabot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305226252151-2fmqgon6dgbt32bno7t6c7gloi93cn72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2BP8ADah4PQEn11pJGOeYsyABVqQ4FGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305226252151-2fmqgon6dgbt32bno7t6c7gloi93cn72.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "305226252151-6v2pnfqfhmqnqtj80f34mp758a8n28v9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yusperabot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
